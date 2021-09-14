@@ -6,3 +6,4 @@
 
 # 编译并运行 
 `go build index.go`
+`./index.exe`
